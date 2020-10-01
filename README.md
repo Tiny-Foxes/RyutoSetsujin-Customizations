@@ -10,6 +10,7 @@ Now you can "feel the wave" Project OutFox!
 # Wave
 The judgment font to go with the Wave color scheme.
 
-# Sticker Star, Superstar, Partnered in Time,
+# Sticker Star and Superstar
+Hey do y'all like Mario RPGs?
 
 As I add more judgment fonts, I'll give them descriptions here.
