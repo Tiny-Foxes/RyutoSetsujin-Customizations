@@ -13,4 +13,7 @@ The judgment font to go with the Wave color scheme.
 # Sticker Star and Superstar
 Hey do y'all like Mario RPGs?
 
+# Japanese
+日本語が分かりません。
+
 As I add more judgment fonts, I'll give them descriptions here.
