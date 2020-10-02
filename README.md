@@ -5,7 +5,7 @@ Judgment fonts created by AppleArcade120 are stored here.
 After all these weeks I'm still confused as to why I made this.
 
 # musWave
-Now you can "feel the wave" Project OutFox!
+Now you can "feel the wave" in Project OutFox!
 
 # Wave
 The judgment font to go with the Wave color scheme.
