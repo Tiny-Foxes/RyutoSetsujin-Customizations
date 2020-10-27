@@ -19,6 +19,6 @@ Hey do y'all like Mario RPGs?
 日本語が分かりません。
 
 # uNintended
-That HAS to be uNintended game design. (Based off of the Nintendo logo)
+That HAS to be uNintended game design. Also, combo breaks are highlighted in white. Neat touch, right? (Based off of the Nintendo logo)
 
 As I add more judgment fonts, I'll give them descriptions here.
