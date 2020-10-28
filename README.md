@@ -21,4 +21,7 @@ Hey do y'all like Mario RPGs?
 # uNintended
 That HAS to be uNintended game design. Also, combo breaks are highlighted in white. Neat touch, right? (Based off of the Nintendo logo)
 
+# Pocket
+Go obtain them all... I think... (Based off of the Pokémon logo)
+
 As I add more judgment fonts, I'll give them descriptions here.
