@@ -24,4 +24,10 @@ That HAS to be uNintended game design. Also, combo breaks are highlighted in whi
 # Pocket
 Go obtain them all... I think... (Based off of the Pokémon logo)
 
+# VIVID
+Based off of SOUND VOLTEX VIVID WAVE.
+
+# Rhythmic
+Based off of Rhythm Heaven, using the "Unlockstep" font (https://www.reddit.com/r/rhythmheaven/comments/asuptm/i_made_a_font_based_off_lockstep_dss_title_font/).
+
 As I add more judgment fonts, I'll give them descriptions here.
