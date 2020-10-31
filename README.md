@@ -1,3 +1,5 @@
+### This repo currently has 27 Judgment fonts.
+
 # ArGame-Judgment-Fonts
 Judgment fonts created by AppleArcade120 are stored here.
 
