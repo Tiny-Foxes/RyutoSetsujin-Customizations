@@ -30,4 +30,10 @@ Based off of SOUND VOLTEX VIVID WAVE.
 # Rhythmic
 Based off of Rhythm Heaven, using the "Unlockstep" font (https://www.reddit.com/r/rhythmheaven/comments/asuptm/i_made_a_font_based_off_lockstep_dss_title_font/).
 
+# Simple
+There was a minimalistic attempt.
+
+# Simple Lines
+Surprisingly I find this easier to read with than Simple.
+
 As I add more judgment fonts, I'll give them descriptions here.
