@@ -1,4 +1,4 @@
-### This folder currently has 30 Judgment fonts.
+### This folder currently has 33 Judgment fonts.
 
 Judgment fonts created by AppleArcade120 are stored here.
 
@@ -39,5 +39,9 @@ Surprisingly I find this easier to read with than Simple.
 
 # Wordart except somethings wrong
 im really bored
+
+# EZ2
+Ok... It's time to break down. Are U ready? (Based off of EZ2DJ/AC by Amuseworld/SQUARE PIXELS/EZ2AC TEAM)
+The only difference between v2.1 and v2.2 is the bevel on the EARLY/LATE timing indicators.
 
 ###### As I add more judgment fonts, I'll give them descriptions here.
