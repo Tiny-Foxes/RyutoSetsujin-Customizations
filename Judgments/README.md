@@ -48,4 +48,7 @@ The only difference between v2.1 and v2.2 is the bevel on the EARLY/LATE timing 
 私に電話して、世界中の歌（フルコンボ）。
 The companion judgment font to the "BISTRO" color scheme. (Inspired by beatmania IIDX)
 
+### Ryuto Setsujin
+I'm a V-Tuber now fear me.
+
 ###### As I add more judgment fonts, I'll give them descriptions here.
