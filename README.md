@@ -1,11 +1,11 @@
-# ArGame-Customizations
-Customization things by AppleArcade120 can be found here.
+# RyutoSetsujin-Customizations
+Customization things by Ryuto Setsujin can be found here.
 
-If you ever stream on Twitch using my customizations, and if you're in the Project Moondance Discord, feel free to ping me @AppleArcade120#1116! I'd love to see my customizations in action!
+If you ever stream on Twitch using my customizations, and if you're in the Project Moondance Discord, feel free to ping me @Ryuto Setsujin#1116! I'd love to see my customizations in action!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Copyright 2020 ArGame by AppleArcade120
+ Copyright 2020 Ryuto Setsujin
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
