@@ -5,6 +5,7 @@ If you ever stream on Twitch using my customizations, and if you're in the Proje
 
 ## Things to note:
 Popira NoteSkin: Reverse is HIGHLY recommended, as the noteskin will not work properly otherwise.
+
 Unix NoteSkin: I'm sorry LMAO. I made this quickly, and I honestly am going to make something better soon enough, just you wait.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
