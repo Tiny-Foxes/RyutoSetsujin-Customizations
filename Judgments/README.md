@@ -1,12 +1,13 @@
-##### This folder currently has 33 Judgment fonts.
+**This folder currently has ***40*** Judgment fonts.**
 
-Judgment fonts created by AppleArcade120 are stored here.
+Judgment fonts created by Ryuto Setsujin can be found here.
 
 ### Minecraft
 After all these weeks I'm still confused as to why I made this. (Inspired by Minecraft... aww man.)
 
 ### musWave
 Now you can "beat the wave" in Project OutFox!
+Used in the scrapped rhythm game "musWave/Velexis"
 (BASIC inspired by SmileBOOM's "SmileBASIC")
 (Milky inspired by Puyo Puyo)
 
@@ -51,4 +52,6 @@ The companion judgment font to the "BISTRO" color scheme. (Inspired by beatmania
 ### Ryuto Setsujin
 I'm a V-Tuber now fear me.
 
+### Full Series
+A series of judgment fonts made using a font called "Full Pack 2025".
 ###### As I add more judgment fonts, I'll give them descriptions here.
