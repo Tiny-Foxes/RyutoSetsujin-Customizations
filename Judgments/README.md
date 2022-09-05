@@ -54,4 +54,8 @@ I'm a V-Tuber now fear me.
 
 ### Full Series
 A series of judgment fonts made using a font called "Full Pack 2025".
+
+### Virtua
+Judgment fonts made using the same font as the "Virtua Steps" theme.
+
 ###### As I add more judgment fonts, I'll give them descriptions here.
