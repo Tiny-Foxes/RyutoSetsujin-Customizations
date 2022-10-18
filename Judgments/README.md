@@ -1,4 +1,4 @@
-**This folder currently has ***40*** Judgment fonts.**
+**This folder currently has ***44*** Judgment fonts.**
 
 Judgment fonts created by Ryuto Setsujin can be found here.
 
