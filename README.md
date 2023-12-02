@@ -1,8 +1,6 @@
 # RyutoSetsujin-Customizations
 Customization things by Ryuto Setsujin can be found here.
 
-If you ever stream on Twitch using my customizations, and if you're in the Project Moondance Discord, feel free to ping me @Ryuto Setsujin#1116! I'd love to see my customizations in action!
-
 ## Things to note:
 Popira NoteSkin: Reverse is HIGHLY recommended, as the noteskin will not work properly otherwise.
 
